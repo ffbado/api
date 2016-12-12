@@ -1,3 +1,3 @@
 # api
 Freifunk APIs
-für die Region Stormarn
+für die Freifunk Bad Oldesloe
